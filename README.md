@@ -1,1 +1,1 @@
-# Bank_customer_churn_EDA-and-Prediction-
+# bank-churn-data-exploration-and-churn-prediction
